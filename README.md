@@ -37,10 +37,6 @@ Sadece abone olan kullanıcılar, kredileri ile film kiralayabilir ve kiraladı�
 Normal kullanıcılar ve aboneler film satın alabilirler.
 Eğer film mevcut değil ise talep edilebilir.
 Bu sistemi tasvir eden Class(Sınıf) diyagramını çiziniz.
-# hw5
-Algoritma
-Ekrandan bir string bir de sayı alan (aralarında virgül ile), ilgili string ifade içerisinden verilen indexteki karakteri çıkartıp ekrana yazdıran console uygulasını yazınız.
 
-Örnek: Input: Algoritma,3 Algoritma,5 Algoritma,22 Algoritma,0
 
-Output: Algritma Algortma Algoritma lgoritma
+
